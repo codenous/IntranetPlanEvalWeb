@@ -1,0 +1,104 @@
+/* CONTACTS */
+.contact-box {
+  background-color: #ffffff;
+  border: 1px solid #e7eaec;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.contact-box > a {
+  color: inherit;
+}
+.contact-box.center-version {
+  border: 1px solid #e7eaec;
+  padding: 0;
+}
+.contact-box.center-version > a {
+  display: block;
+  background-color: #ffffff;
+  padding: 20px;
+  text-align: center;
+}
+.contact-box.center-version > a img {
+  width: 80px;
+  height: 80px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.contact-box.center-version address {
+  margin-bottom: 0;
+}
+.contact-box .contact-box-footer {
+  text-align: center;
+  background-color: #ffffff;
+  border-top: 1px solid #e7eaec;
+  padding: 15px 20px;
+}
+
+.contact-box p
+{
+    font-size:10pt;
+    line-height:14px;
+}
+.contact-box label
+{
+    font-size:9pt;
+    color:gray;
+    margin-top:3px;
+    font-weight:lighter;
+}
+.contact-header{
+    border-top:1px solid #e7eaec;
+    border-left:1px solid #e7eaec;
+    border-right:1px solid #e7eaec;
+    color:#fff;
+    background:#00a78e;
+    padding:5px;
+    border-radius:5px 5px 0px 0px;
+}
+
+.btn-naranjo:hover{
+    font-family:"roboto";
+    background:#FF9500;
+    color:#fff;
+    transition:0.5s;
+}
+.btn-rojo:hover{
+    background:#FF4A55;
+    color:#fff;
+    transition:0.5s;
+}
+.btn-verde:hover{
+    background:#87CB16;
+    color:#fff;
+    transition:0.5s;
+}
+.btn-azul:hover{
+    background:#3472F7;
+    color:#fff;
+    transition:0.5s;
+}
+
+.text-muted{
+    border-bottom:1px solid;
+}
+.ficha_matricula p{
+    font-family: 'roboto';
+    font-size:10pt;
+}
+.ficha_matricula .image{
+    overflow:hidden;
+    height:100px;
+}
+
+.tabla_lista_info td{
+    font-size:8pt;
+}
+
+.team-members {
+  margin: 10px 0;
+}
+.team-members img.img-circle {
+  width: 42px;
+  height: 42px;
+  margin-bottom: 5px;
+}
