@@ -9,6 +9,7 @@
                     <hr>
                     <div class="content">
                         info acá
+                        info 2
                     </div>
                 </div>
             </div>
